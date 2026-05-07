@@ -1,1 +1,1 @@
-Preview : https://raw.githubusercontent.com/narayarahmudi/Honkai-Star-Rail-Landing-Page/refs/heads/main/index.html
+Preview : https://htmlpreview.github.io/?https://raw.githubusercontent.com/narayarahmudi/Honkai-Star-Rail-Landing-Page/refs/heads/main/index.html
